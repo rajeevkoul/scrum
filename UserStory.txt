@@ -2,10 +2,12 @@ We begin with key features of User Story:
 
 The must objective of user story is that it should quaify incremental output with some value associated.
 
-User stories should qualify the criteria of three "C's":
+A) User stories should qualify the criteria of three "C's":
       1) Card: Usually a sticky note, which summarises user story and at the back of it usually acceptance criteria or Definition of Done                (DOD) is clearly understood.
       
       2) Convesration: Convesration happeniing to refine user story amongst scrum team, PO and SM
       
       3) and Confirmation: PO must define the acceptance criteria or clear definition of done by user story
+      
+ B) User stories should qualify the criteria of "INVEST"
       
