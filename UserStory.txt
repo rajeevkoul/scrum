@@ -1,0 +1,2 @@
+We begin with key features of User Story
+The must objective of user story is that it should quaify incremental output with some value associated.
