@@ -23,5 +23,13 @@ A) User stories should qualify the criteria of three "C's":
 
       T-(Testable)-   Every story should be testable to match "Definition of Done" or "Acceptance criteria", each member should agree that 
                       on verificattion to match definition of "done".
+                      
+C) Format of User Story
+
+As a <user Role> who, <I want to> what, <so that> why
+
+
+            
+            
       
       
