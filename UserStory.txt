@@ -10,4 +10,18 @@ A) User stories should qualify the criteria of three "C's":
       3) and Confirmation: PO must define the acceptance criteria or clear definition of done by user story
       
  B) User stories should qualify the criteria of "INVEST"
+      I(Independent)- User story should be independent of other stories, we should try to break technical dependencies as often as    
+                      possible.
+
+      N-(Negotiable)- Story is not a contract and infact it should deliver desired value to customer, collaborative negaotiation between                         customer and team shoud happpen.
+
+      V-(Valuable) -  The end point is user story should deliver a tangibe value and with specific reason.
+
+      E-(Estimable) - Story should be estimable so that it can be easily prioritized. If story is too complex, it can be splitted.
+
+      S-(Small) -     Stories should be small enough to be delivred in say small sprint of 2 week(s) and stories of maximum 3-4 days.
+
+      T-(Testable)-   Every story should be testable to match "Definition of Done" or "Acceptance criteria", each member should agree that 
+                      on verificattion to match definition of "done".
+      
       
